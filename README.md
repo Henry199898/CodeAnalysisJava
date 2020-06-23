@@ -1,5 +1,5 @@
 # Java Code Analyzer (Generating AST For java files/projects)
-
+# 好像与静态检测器Bugram相关
 ## Requirments
 *Java, Eclipse, Git, Maven and Python 2.7.12 + associated pip* should be installed on the system
 
